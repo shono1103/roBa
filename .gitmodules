@@ -1,0 +1,3 @@
+[submodule "CKW12"]
+	path = CKW12
+	url = git@github.com:kumamuk-git/CKW12.git
