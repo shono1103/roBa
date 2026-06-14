@@ -1,2 +1,5 @@
 # JLCPCB発注用に生成したガーバーファイル（ローカルのみ）
 gerber_output/
+
+# KiCadから生成した発注用zip（ガーバー一式）
+*.zip
