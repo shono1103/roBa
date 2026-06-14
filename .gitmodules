@@ -1,3 +1,6 @@
 [submodule "CKW12"]
 	path = CKW12
 	url = git@github.com:kumamuk-git/CKW12.git
+[submodule "zmk-config-roBa"]
+	path = zmk-config-roBa
+	url = git@github.com:shono1103/zmk-config-roBa.git
